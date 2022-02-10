@@ -1,8 +1,8 @@
 # How to imitate the Signature Control by using an XtraReport picture box
 
-<p>XtraReport allows you to embed a picture element into your report. This demo illustrates this approach: <a href="https://demos.devexpress.com/MVCxReportDemos/Interaction/EFormReport">E-Form</a>. Here, XtraReport is created with the XRPictureBox element whose Enabled property is set to true. Setting this property to true allows you to draw in the picture box area. ASPxWebDocumentViewer is used to show XtraReport.</p>
+<p>XtraReport allows you to embed a picture element into your report. This is illustrated in the following demo: <a href="https://demos.devexpress.com/MVCxReportDemos/Interaction/EFormReport">E-Form</a>. Here, XtraReport is created with the XRPictureBox element whose Enabled property is set to true. Setting this property to true allows you to draw in the picture box area. ASPxWebDocumentViewer is used to show XtraReport.</p>
 
-<p>This is possible to customize ASPxWebDocumentViewer and XtraReport and show a picture box element as if it is a separate signature control. Steps below illustrate how to accomplish this task:</p> 
+<p>This is also possible to customize ASPxWebDocumentViewer and XtraReport and show a picture box element as if it is a separate signature control. Steps below illustrate how to accomplish this task:</p> 
 
 1. Create a new XtraReport.
 2. Drop a picture box element onto your report.
