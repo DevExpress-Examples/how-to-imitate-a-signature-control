@@ -88,13 +88,8 @@ The result is illustrated in the following gif:
 
 <img src="./Images/video.gif">
 
-**See also:**
-
-<a href="https://supportcenter.devexpress.com/ticket/details/t578527/aspxcardview-how-to-upload-files-in-the-edit-mode-and-save-them-in-a-database">ASPxCardView - How to upload files in the Edit mode and save them in a database</a> 
-
-<br/>
 <!-- default file list -->
-Files to look at:
+**Files to look at:**
 
 * [CustomDocumentOperationService.cs](./CS/WebApplication1/WebApplication1/CustomDocumentOperationService.cs)
 * [Default.aspx](./CS/WebApplication1/WebApplication1/Default.aspx)
