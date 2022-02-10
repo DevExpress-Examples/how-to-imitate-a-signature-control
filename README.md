@@ -88,6 +88,8 @@ The result is illustrated in the following gif:
 
 <img src="./Images/video.gif">
 
+
+<br/>
 <!-- default file list -->
 **Files to look at:**
 
