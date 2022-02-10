@@ -91,7 +91,7 @@ The result is illustrated in the following gif:
 
 <br/>
 <!-- default file list -->
-**Files to look at:**
+Files to look at:
 
 * [CustomDocumentOperationService.cs](./CS/WebApplication1/WebApplication1/CustomDocumentOperationService.cs)
 * [Default.aspx](./CS/WebApplication1/WebApplication1/Default.aspx)
