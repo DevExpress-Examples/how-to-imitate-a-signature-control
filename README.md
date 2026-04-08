@@ -99,10 +99,10 @@ The result is illustrated in the following gif:
 <!-- default file list -->
 Files to look at:
 
-* [CustomDocumentOperationService.cs](./CS/WebApplication1/WebApplication1/CustomDocumentOperationService.cs)
-* [Default.aspx](./CS/WebApplication1/WebApplication1/Default.aspx)
-* [Default.cs](./CS/WebApplication1/WebApplication1/Default.aspx.cs)
-* [Global.cs](./CS/WebApplication1/WebApplication1/Global.asax.cs)
+* [CustomDocumentOperationService.cs](./WebApplication1/WebApplication1/CustomDocumentOperationService.cs)
+* [Default.aspx](./WebApplication1/WebApplication1/Default.aspx)
+* [Default.cs](./WebApplication1/WebApplication1/Default.aspx.cs)
+* [Global.cs](./WebApplication1/WebApplication1/Global.asax.cs)
 <!-- default file list end -->
 
 
